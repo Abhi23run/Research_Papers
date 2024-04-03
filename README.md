@@ -1,3 +1,5 @@
 # Research_Papers
 This repository contains a collated list of links to interesting research papers in the LLM space : <br/>
-![Daily Papers by AK - Huggingface](https://huggingface.co/papers)
+
+- <a href='https://huggingface.co/papers'>**Daily Papers by AK - Huggingface**</a>
+
