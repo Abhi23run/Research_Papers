@@ -7,3 +7,4 @@ This repository contains a collated list of useful resources to interesting rese
 - <a href='https://github.com/dair-ai/Prompt-Engineering-Guide'> **Prompt Engineering Guide (dair-ai)** </a>
 - <a href='https://magazine.sebastianraschka.com/'> **Sebastian Raschka - Blogs**</a>
 - <a href='https://distill.pub/'> **Distill (Graph Neural Networks)**</a>
+- <a href='https://colah.github.io/'> **Colah's Blogs**</a>
