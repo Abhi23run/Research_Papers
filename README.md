@@ -6,4 +6,4 @@ This repository contains a collated list of useful resources to interesting rese
 - <a href='https://blog.research.google/search/label/Large%20Language%20Models?max-results=11'>**Google Research Blogs**</a>
 - <a href='https://github.com/dair-ai/Prompt-Engineering-Guide'> **Prompt Engineering Guide (dair-ai)** </a>
 - <a href='https://magazine.sebastianraschka.com/'> **Sebastian Raschka - Blogs**</a>
-- <a href='https://distill.pub/'> Distill (Graph Neural Networks)
+- <a href='https://distill.pub/'> **Distill (Graph Neural Networks)**</a>
