@@ -11,4 +11,5 @@ This repository contains a collated list of useful resources to interesting rese
 - <a href='https://www.uber.com/blog/engineering/ai/'> **Uber's Research blogs**</a>
 - <a href='https://alejandro-ao.com/posts/'> **Crew AI - Agentic Framework**</a>
 - <a href='https://aman.ai/'> **Aman Chadda's Blogs** </a>
+- <a href='https://xaiguy.substack.com/'> **Pascal Biese's Blogs** </a>
    
