@@ -1,4 +1,4 @@
-## Breaking & Building LLMs 
+## LLMs Unplugged
 
 This repository contains a collated list of useful resources to interesting research papers/articles in the LLM, Graph ML space : <br/>
 
