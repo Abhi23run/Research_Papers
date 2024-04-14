@@ -14,4 +14,5 @@ This repository contains a collated list of useful resources to interesting rese
 - <a href='https://xaiguy.substack.com/'> **Pascal Biese's Blogs** </a>
 - <a href='https://www.deeplearning.ai/'> **Deep Learning Short Courses** </a>
 - <a href='https://lilianweng.github.io/'> **Lilian Weng's Blogs (OpenAI)** </a>
+- <a href='https://pub.towardsai.net/'>**Towards AI**</a>
    
